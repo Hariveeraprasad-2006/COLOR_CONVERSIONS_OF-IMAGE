@@ -194,7 +194,8 @@ cv2.destroyAllWindows()
 # BLUE:
 ![Screenshot 2024-02-16 115626](https://github.com/Hariveeraprasad-2006/COLOR_CONVERSIONS_OF-IMAGE/assets/145049988/0ae9e30e-5c34-413e-a1cc-cb914bd1a6f7)
 # MERGED IMAGE:
-![Uploading Screenshot 2024-02-16 120132.png…]()
+![Screenshot 2024-02-16 120132](https://github.com/Hariveeraprasad-2006/COLOR_CONVERSIONS_OF-IMAGE/assets/145049988/c66d7b1e-dee9-454a-a3ea-8563d637ea52)
+
 
 ### x) Split and merge HSV Image
 ### CODE:
